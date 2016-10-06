@@ -1,20 +1,20 @@
-####Tumblr Corentine Renaux####
+#Tumblr Corentine Renaux#
 
-###Titre du blog : Artistic and co###
+##Titre du blog : Artistic and co##
 
-#Description#
+##Description##
 
 Artisticandco est un blog qui parle d'art et en particulier de Nouveau Réalisme. Des articles y sont publiés pour montrer les différentes oeuvres d'art présentes dans les expositions de ces artistes.
 
 http://artisticandco.tumblr.com/
 
-#Favicon#
+##Favicon##
 
-#Bannière#
+##Bannière##
 
-#Police du titre# 
+##Police du titre## 
 StreetScript#
 
-#Couleurs#
+##Couleurs##
 - Background : #FAFAFA
 - police : #0000
