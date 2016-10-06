@@ -19,4 +19,4 @@ StreetScript
 
 ##Couleurs##
 - Background : #FAFAFA
-- police : #0000
+- Police : #0000
