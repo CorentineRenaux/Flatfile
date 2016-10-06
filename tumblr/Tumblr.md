@@ -12,7 +12,7 @@ http://artisticandco.tumblr.com/
 
 ##Bannière##
 
-##Police du titre## 
+##Police du titre 
 StreetScript
 
 ##Couleurs##
