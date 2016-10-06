@@ -9,10 +9,10 @@ Artisticandco est un blog qui parle d'art et en particulier de Nouveau Réalisme
 http://artisticandco.tumblr.com/
 
 ##Favicon##
-[Favicon](https://github.com/CorentineRenaux/Flatfile/blob/master/tumblr/favicon-tumblr.jpg)
+![Favicon](https://github.com/CorentineRenaux/Flatfile/blob/master/tumblr/favicon-tumblr.jpg)
 
 ##Bannière##
-[Bannières](https://github.com/CorentineRenaux/Flatfile/blob/master/tumblr/Cover-tumblr.jpg)
+![Bannières](https://github.com/CorentineRenaux/Flatfile/blob/master/tumblr/Cover-tumblr.jpg)
 
 ##Police du titre 
 StreetScript
