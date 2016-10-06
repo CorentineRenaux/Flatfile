@@ -1,6 +1,6 @@
-##Tumblr Corentine Renaux##
+####Tumblr Corentine Renaux####
 
-#Titre du blog : Artistic and co#
+###Titre du blog : Artistic and co###
 
 #Description#
 
@@ -12,7 +12,8 @@ http://artisticandco.tumblr.com/
 
 #Bannière#
 
-#Police du titre : StreetScript#
+#Police du titre# 
+StreetScript#
 
 #Couleurs#
 - Background : #FAFAFA
