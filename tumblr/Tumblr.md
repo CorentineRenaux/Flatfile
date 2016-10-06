@@ -13,7 +13,7 @@ http://artisticandco.tumblr.com/
 ##Bannière##
 
 ##Police du titre## 
-StreetScript#
+StreetScript
 
 ##Couleurs##
 - Background : #FAFAFA
