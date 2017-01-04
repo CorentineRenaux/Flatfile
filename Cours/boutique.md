@@ -16,9 +16,18 @@
  - cupcake m&m's
    - 5€
     - des éclats de m&m's parsement un cupcake chocolaté
+ - cupcake oreo
+   - 5€
+    - des morceaux d'oreo par dessus un cupcake vanillé
+ - cupcake chocolat-framboise
+   - 5€
+    - la délicatesse de la framboise alliée à la force du chocolat
+ - cupcake pêche-abricot 
+   - 5€
+    - un cupcake composé de fruits jaunes
+ - cupcake guimauve
+   - 5€
+    - un cupcake sucré qui saura ravir les plus jeunes. 
+   
    
 
-- titre
-- prix
-- description
-- visuels
