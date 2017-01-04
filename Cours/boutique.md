@@ -6,7 +6,7 @@
  - 10/15 produits :
  - cupcake 3 chocolats
    - 5€
-   - l'alliance du chocolat blanc, au lait et noir réunis dans un cupcake  
+    - l'alliance du chocolat blanc, au lait et noir réunis dans un cupcake  
  - cupcake caramel speculoos
    - 5€
    - l'union du caramel parsemé de speculoos
