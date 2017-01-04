@@ -18,7 +18,7 @@ boutique en ligne classique, version adaptée pour les smartphones et de nombreu
 meilleures innovations en terme d'ergonomie et de conversion.
 
 ##Oxatis
-* **39€ HT minimum par mois**  
+* **39€/par mois minimum**  
 * **Un graphisme exceptionnel pour séduire vos clients**  
 Par sa beauté, son originalité, il mettra en avant votre offre et vos avantages concurrentiels
 * **5 sources de trafic pour atteindre des millions d’e-shoppers**  
@@ -29,3 +29,8 @@ Un éventail unique de plus de 14 outils marketing puissants et complémentaires
 multiples possibilités de rassurer vos clients et de les inciter à finaliser leurs achats
 * **Une gestion simplifiée des commandes et des stocks**  
 automatisation du processus administratif. Gestion centralisée des commandes et des stocks pour gagner du temps.
+
+##Shopify
+* **29€/mois minimum**
+* ** Design personnalisé**
+contrôle complet sur l’apparence de votre site ainsi qu’un accès immédiat à une centaine des meilleurs thèmes. 
