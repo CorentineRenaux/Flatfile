@@ -5,17 +5,17 @@
 - baseline : Assumez votre gourmandise !
  - 10/15 produits :
  - cupcake 3 chocolats
-  ..* 5€
-  ..* l'alliance du chocolat blanc, au lait et noir réunis dans un cupcake  
+   - 5€
+   - l'alliance du chocolat blanc, au lait et noir réunis dans un cupcake  
  - cupcake caramel speculoos
    - 5€
    - l'union du caramel parsemé de speculoos
  - cupcake fruits rouges
    - 5€
    - la fraise, la framboise et la cerise réunis dans un cupcake
- - cupcake 3 chocolats
+ - cupcake m&m's
    - 5€
-   - l'alliance du chocolat blanc, au lait et noir réunis dans un cupcake
+   - des éclats de m&m's parsement un cupcake chocolaté
    
 
 - titre
