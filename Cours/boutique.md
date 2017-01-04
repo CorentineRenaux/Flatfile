@@ -9,13 +9,13 @@
     - l'alliance du chocolat blanc, au lait et noir réunis dans un cupcake  
  - cupcake caramel speculoos
    - 5€
-   - l'union du caramel parsemé de speculoos
+    - l'union du caramel parsemé de speculoos
  - cupcake fruits rouges
    - 5€
-   - la fraise, la framboise et la cerise réunis dans un cupcake
+    - la fraise, la framboise et la cerise réunis dans un cupcake
  - cupcake m&m's
    - 5€
-   - des éclats de m&m's parsement un cupcake chocolaté
+    - des éclats de m&m's parsement un cupcake chocolaté
    
 
 - titre
