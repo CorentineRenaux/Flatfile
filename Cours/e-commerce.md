@@ -16,3 +16,16 @@ Pas de modules supplémentaires à acheter, outils pour réussir ! Une API compl
 boutique en ligne classique, version adaptée pour les smartphones et de nombreux outils de social marketing !
 * **Incroyablement efficace**
 meilleures innovations en terme d'ergonomie et de conversion.
+
+##Oxatis
+* **39€ HT minimum par mois**
+* **Un graphisme exceptionnel pour séduire vos clients**
+Par sa beauté, son originalité, il mettra en avant votre offre et vos avantages concurrentiels
+* **5 sources de trafic pour atteindre des millions d’e-shoppers** 
+Les sites Oxatis sont optimisés pour le référencement naturel afin de vous donner accès à un trafic gratuit et qualifié.
+* **Des outils marketing puissants** 
+Un éventail unique de plus de 14 outils marketing puissants et complémentaires
+* **Des sites efficaces pour transformer vos visiteurs en acheteurs**
+multiples possibilités de rassurer vos clients et de les inciter à finaliser leurs achats
+* **Une gestion simplifiée des commandes et des stocks**
+automatisation du processus administratif. Gestion centralisée des commandes et des stocks pour gagner du temps.
