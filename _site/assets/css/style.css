@@ -1,0 +1,12 @@
+.wrapper {
+	margin: 0 auto;
+	max-width: 65rem;
+
+}
+
+header{
+	background-image: url(.../assets/img/bokeh-circles-photo.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 130px;
+}
