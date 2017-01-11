@@ -3,7 +3,8 @@
 ![logo cupcake](file://localhost/Users/renauco2/Documents/CMS/logo-boutique.png)
 - nom : SweetCake
 - baseline : Assumez votre gourmandise !
- - cupcake 3 chocolats
+ - ![logo cupcake 3 chocolats](file://localhost/Users/renauco2/Documents/CMS/cupcake-3-chocolats.jpg)
+   - cupcake 3 chocolats
    - 5€
     - l'alliance du chocolat blanc, au lait et noir réunis dans un cupcake  
  - cupcake caramel speculoos
