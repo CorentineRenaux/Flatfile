@@ -1,4 +1,4 @@
-#Fiche descriptive
+#Fiche descriptive / Corentine Renaux, Thomas Maitret
 - logo :
 ![logo cupcake](https://rlv.zcache.ca/logo_cupcake_round_label_1_round_sticker-rdc5019657e54446c965cffc50c4c481a_v9waf_8byvr_324.jpg)
 - nom : SweetCake
