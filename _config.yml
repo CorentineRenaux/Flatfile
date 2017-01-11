@@ -1,3 +1,13 @@
+---
 title: titre de mon site
+timezone: UTC
 collections:
-  - Cours
+  Cours:
+    title: Cours
+    output: false
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
