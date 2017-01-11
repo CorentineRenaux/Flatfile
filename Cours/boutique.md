@@ -1,6 +1,6 @@
 #Fiche descriptive / Corentine Renaux, Thomas Maitret
 - logo :
-![logo cupcake](file://localhost/Users/renauco2/Documents/CMS/logo-boutique.png)
+![logo cupcake](logo-boutique.png)
 - nom : SweetCake
 - baseline : Assumez votre gourmandise !
  - ![logo cupcake 3 chocolats](/Produits/cupcake-3-chocolats.jpg)
