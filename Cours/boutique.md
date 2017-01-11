@@ -4,8 +4,8 @@
 - nom : SweetCake
 - baseline : Assumez votre gourmandise !
 
-  -![logo cupcake 3 chocolats](/Produits/cupcake-3-chocolats.jpg)
-   - cupcake 3 chocolats
+ -![logo cupcake 3 chocolats](/Produits/cupcake-3-chocolats.jpg)
+  - cupcake 3 chocolats
     - 5€
      - l'alliance du chocolat blanc, au lait et noir réunis dans un cupcake  
     
