@@ -14,7 +14,7 @@
    - 5€
     - l'union du caramel parsemé de speculoos
     
--![logo cupcake speculoos](/Produits/cupcake-caramel-speculoos.jpg)
+-![logo cupcake fruits rouges](/Produits/cupcake-fruits-rouges.jpg)
  - cupcake fruits rouges
    - 5€
     - la fraise, la framboise et la cerise réunis dans un cupcake
